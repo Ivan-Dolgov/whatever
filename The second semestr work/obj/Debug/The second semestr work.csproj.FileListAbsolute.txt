@@ -1,0 +1,10 @@
+C:\Users\dolgo\source\repos\The second semestr work\The second semestr work\bin\Debug\The second semestr work.exe.config
+C:\Users\dolgo\source\repos\The second semestr work\The second semestr work\bin\Debug\The second semestr work.exe
+C:\Users\dolgo\source\repos\The second semestr work\The second semestr work\bin\Debug\The second semestr work.pdb
+C:\Users\dolgo\source\repos\The second semestr work\The second semestr work\obj\Debug\The second semestr work.csproj.AssemblyReference.cache
+C:\Users\dolgo\source\repos\The second semestr work\The second semestr work\obj\Debug\The_second_semestr_work.Form1.resources
+C:\Users\dolgo\source\repos\The second semestr work\The second semestr work\obj\Debug\The_second_semestr_work.Properties.Resources.resources
+C:\Users\dolgo\source\repos\The second semestr work\The second semestr work\obj\Debug\The second semestr work.csproj.GenerateResource.cache
+C:\Users\dolgo\source\repos\The second semestr work\The second semestr work\obj\Debug\The second semestr work.csproj.CoreCompileInputs.cache
+C:\Users\dolgo\source\repos\The second semestr work\The second semestr work\obj\Debug\The second semestr work.exe
+C:\Users\dolgo\source\repos\The second semestr work\The second semestr work\obj\Debug\The second semestr work.pdb
